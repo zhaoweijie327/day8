@@ -1,0 +1,15 @@
+{
+  "register":{"username":"18987459986",
+              "verify_code":"8888",
+              "password":"123456",
+              "password2":"123456",
+              "status":1,
+              "msg":"注册成功"
+               },
+  "login":{"usernam":"18987459986",
+           "password":"123456",
+           "verify_code":"8888",
+           "status":1,
+           "msg":"登陆成功"
+          }
+}
